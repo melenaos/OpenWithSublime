@@ -10,7 +10,7 @@ Adds the follwing items at the context menu:
 
 
 ## Installation
-* Download the file on your desktop
+* Download [openWithSublime.reg](https://raw.githubusercontent.com/melenaos/OpenWithSublime/master/openWithSublime.reg) on your desktop
 * Change the sublime installation paths if needed (skip if you have left the default settins when installing)
 * Execute the registry file (double click on it)
 * Press 'Yes' to merge the registry keys and install the sublime shortcuts
